@@ -1,8 +1,8 @@
 module Markets
 
-using Currencies
-
-export Market, Currencies, Currency
+using Reexport
+@reexport using Currencies
+export Market
 
 struct Market
     name::String
