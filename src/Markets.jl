@@ -4,7 +4,7 @@ using Reexport
 @reexport using Currencies
 export Market
 
-struct Market
+struct Market{C<:Currency}
     name::String
     # Yield curves
     # Equity prices
