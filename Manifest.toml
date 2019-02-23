@@ -2,11 +2,9 @@
 
 [[Currencies]]
 deps = ["DelimitedFiles"]
-git-tree-sha1 = "44451428a39db8adcfb4a6258bdef87c218e50bb"
-repo-rev = "master"
-repo-url = "https://github.com/JuliaFinance/Currencies.jl.git"
+git-tree-sha1 = "98344a4fcd55f9cd99cc966da276be2fd44e8b06"
 uuid = "0fd90b74-7c1f-579e-9252-02cd883047b9"
-version = "0.11.0"
+version = "0.1.0"
 
 [[DelimitedFiles]]
 deps = ["Mmap"]
