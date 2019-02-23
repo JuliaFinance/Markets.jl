@@ -2,7 +2,7 @@ module Markets
 
 using Currencies
 
-export Market 
+export Market, Currencies
 
 struct Market
     name::String
