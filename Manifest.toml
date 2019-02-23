@@ -1,0 +1,16 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[Currencies]]
+deps = ["DelimitedFiles"]
+git-tree-sha1 = "44451428a39db8adcfb4a6258bdef87c218e50bb"
+repo-rev = "master"
+repo-url = "https://github.com/JuliaFinance/Currencies.jl.git"
+uuid = "0fd90b74-7c1f-579e-9252-02cd883047b9"
+version = "0.11.0"
+
+[[DelimitedFiles]]
+deps = ["Mmap"]
+uuid = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+
+[[Mmap]]
+uuid = "a63ad114-7e13-5084-954f-fe012c677804"
