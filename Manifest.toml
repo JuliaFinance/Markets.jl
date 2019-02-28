@@ -2,9 +2,10 @@
 
 [[Currencies]]
 deps = ["DelimitedFiles"]
-git-tree-sha1 = "98344a4fcd55f9cd99cc966da276be2fd44e8b06"
+git-tree-sha1 = "ee12d05a4d48685e7567c8844b380ed68931f55c"
+repo-rev = "master"
+repo-url = "https://github.com/JuliaFinance/Currencies.jl.git"
 uuid = "0fd90b74-7c1f-579e-9252-02cd883047b9"
-version = "0.1.0"
 
 [[DelimitedFiles]]
 deps = ["Mmap"]
@@ -14,8 +15,8 @@ uuid = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 
 [[Reexport]]
-git-tree-sha1 = "7b1d07f411bc8ddb7977ec7f377b97b158514fe0"
+git-tree-sha1 = "6b9a637e33dfb9ceff7f01938408c344fa926ce3"
 repo-rev = "master"
-repo-url = "https://github.com/EricForgy/Reexport.jl"
+repo-url = "https://github.com/simonster/Reexport.jl.git"
 uuid = "189a3867-3050-52da-a836-e630ba90ab69"
 version = "0.2.0+"
