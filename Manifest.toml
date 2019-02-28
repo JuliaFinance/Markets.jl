@@ -2,7 +2,6 @@
 
 [[Currencies]]
 deps = ["DelimitedFiles"]
-git-tree-sha1 = "033fd6e1903935bad63a6f1ed0593d2ebcdea012"
 uuid = "0fd90b74-7c1f-579e-9252-02cd883047b9"
 version = "0.12.0"
 
