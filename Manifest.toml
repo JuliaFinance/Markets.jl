@@ -47,6 +47,12 @@ uuid = "d6f4376e-aef5-505a-96c1-9c027394607a"
 [[Mmap]]
 uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 
+[[Observables]]
+deps = ["Test"]
+git-tree-sha1 = "dc02cec22747d1d10d9f70d8a1c03432b5bfbcd0"
+uuid = "510215fc-4207-5dde-b226-833fc4488ee2"
+version = "0.2.3"
+
 [[Positions]]
 deps = ["FinancialInstruments", "FixedPointDecimals", "Reexport"]
 path = "C:\\Users\\Eric\\.julia\\dev\\Positions"
