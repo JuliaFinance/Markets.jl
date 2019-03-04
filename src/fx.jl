@@ -12,6 +12,7 @@ CurrencyPair(bid,ask) = CurrencyPair{typeof(bid),identity}(bid,ask)
 
 update(c::CurrencyPair{A,F}) where {A,F} = F(c)
 
+convert(::Type{P},x::P) where P<:Position = x
 function generatepair(base::Currency{B},currency::Currency{C},bid::A,ask::A=bid) where {B,C,A<:Real}
     pair = Symbol(B,C)
     @eval FX const $(pair) = Ref{CurrencyPair}()
