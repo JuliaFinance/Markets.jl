@@ -3,7 +3,7 @@ uuid = "b44f5480-3750-11e9-03b7-d5e34f572a03"
 authors = ["Eric Forgy <Eric.Forgy@coherentasia.com>"]
 
 [deps]
-Currencies = "0fd90b74-7c1f-579e-9252-02cd883047b9"
+Positions = "81d999f0-3725-11e9-2196-fd457307c398"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 
 [extras]
